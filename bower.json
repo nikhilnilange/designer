@@ -15,6 +15,7 @@
     "iron-selector": "PolymerElements/iron-selector#master",
     "paper-card": "PolymerElements/paper-card#master",
     "paper-header-panel": "PolymerElements/paper-header-panel#master",
+    "paper-input": "PolymerElements/paper-input#master",
     "paper-ripple": "PolymerElements/paper-ripple#master",
     "paper-tabs": "PolymerElements/paper-tabs#master",
     "paper-toolbar": "PolymerElements/paper-toolbar#master",
